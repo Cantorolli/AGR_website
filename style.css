@@ -14,3 +14,7 @@ section.vid div.holder1{
     position: sticky;
     top: 0;
 }
+
+body{
+    color: white;
+}
